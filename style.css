@@ -391,3 +391,23 @@ ul{
   padding-left: 3.75rem;
   padding-bottom: 4.3125rem;
 }
+
+.center-header{
+  /* border: 2px solid seagreen; */
+  display: flex;
+  justify-content: center;
+}
+
+.center{
+  /* border: 2px solid slateblue; */
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.privacy{
+  display: flex;
+  gap: 1.5rem;
+}
+
