@@ -373,3 +373,10 @@ ul{
 .li::marker{
   color: rgba(37, 99, 235, 1);
 }
+
+.footer{
+  /* border: 2px solid seagreen; */
+  display: flex;
+  justify-content: center;
+  background-color: rgba(13, 27, 42, 1);
+}
